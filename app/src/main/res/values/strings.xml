@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Pay Calculator</string>
+    <string name="about_title">About</string>
+    <string name="heading">Calculate your pay</string>
+    <string name="intro">Enter your hours, hourly rate, and tax percentage.</string>
+    <string name="hours_label">Hours worked</string>
+    <string name="rate_label">Hourly rate ($)</string>
+    <string name="tax_label">Tax rate (%)</string>
+    <string name="hours_hint">For example, 45</string>
+    <string name="rate_hint">For example, 20.00</string>
+    <string name="tax_hint">For example, 15</string>
+    <string name="calculate">Calculate</string>
+    <string name="about_button">About this app</string>
+    <string name="results_heading">Pay summary</string>
+    <string name="regular_result">Regular pay: %1$s</string>
+    <string name="overtime_result">Overtime pay: %1$s</string>
+    <string name="total_result">Total pay: %1$s</string>
+    <string name="tax_result">Tax: %1$s</string>
+    <string name="tax_note">Tax is calculated on regular pay, as specified in the assignment. Enter 15 for a 15% tax rate.</string>
+    <string name="required_error">Enter a value.</string>
+    <string name="number_error">Enter a valid, non-negative number using a decimal point.</string>
+    <string name="tax_error">Enter a percentage between 0 and 100.</string>
+    <string name="large_error">These values are too large to calculate.</string>
+    <string name="student_name">Teni Ogun</string>
+    <string name="student_id">101568492</string>
+    <string name="name_heading">Student name</string>
+    <string name="id_heading">Student ID</string>
+    <string name="course">COMP3074 · Assignment 1</string>
+    <string name="about_description">Calculates regular pay, overtime pay, total pay, and tax. Overtime begins after 40 hours and is paid at 1.5 times the hourly rate.</string>
+</resources>
